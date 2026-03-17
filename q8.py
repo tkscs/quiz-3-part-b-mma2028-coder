@@ -6,3 +6,7 @@ def check_palindrome(i):
         return False
 
 print(check_palindrome("bob"))
+
+
+
+"i searched on google how to flip a string backwards"
